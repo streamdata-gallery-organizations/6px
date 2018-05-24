@@ -1,24 +1,22 @@
 ---
 name: 6px
 x-slug: 6px
-description: With everything moving to the cloud, it is essential that the tools and
-  strategies for processing images move as well. 6px is a series of microservices
-  built for large scale image processing in the cloud. Processing millions upon millions
-  of images per month, our battle-tested software and infrastructure allows companies,
-  large and small, to build next-generation, image-oriented applications and services
-  in a fraction of the time.
-image: https://d1qb2nb5cznatu.cloudfront.net/startups/i/268906-5d5b08cb0cc5d6dfd40084c261adf872-medium_jpg.jpg?buster=1390501658
+description: Large-scale image processing on mobile and on-premises. Get started at
+  https://t.co/XtCWweayZZ!
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9063-6px.jpg
 x-kinRank: "8"
 x-alexaRank: ""
 tags: 6px
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/6px/master/_listings/6px/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
 - type: x-base
   url: https://api.6px.io
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/6px
 - type: x-developer
   url: https://github.com/6px-io/6px-api-docs
 - type: x-github
